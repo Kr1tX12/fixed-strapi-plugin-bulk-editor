@@ -1,7 +1,7 @@
 <div align="center">
   <img style="width: 160px; height: auto;" src="https://i.imgur.com/z0LMq7J.png" alt="Logo for Strapi Plugin: Bulk Editor" />
 
-  <h1>Strapi Plugin: Bulk Editor</h1>
+  <h1>Fixed Strapi Plugin: Bulk Editor</h1>
 
 <a href="https://strapi.io/five"><img src="https://img.shields.io/badge/Strapi-v5-blue" alt="Strapi v5" /></a>
 <a href="https://www.npmjs.com/package/strapi-plugin-bulk-editor"><img src="https://img.shields.io/npm/v/strapi-plugin-bulk-editor" alt="npm" /></a>
